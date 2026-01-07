@@ -3,7 +3,7 @@ Approach 1
 Time Complexity -- O(n)
 Space Complexity -- O(1)
 
-Technique Used -- Two pointer
+Technique Used -- Sliding Window
 '''
 class Solution:
     def maxSubarrayXOR(self, arr, k):

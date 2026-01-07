@@ -2,6 +2,8 @@
 Optimal Approach 
 Time Complexity -- O(n)
 Space Complexity -- O(n) 
+
+Technique Used -- Sliding Window
 '''
 class Solution:
     def maxSubarraySum(self, arr, k):
